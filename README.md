@@ -12,7 +12,9 @@ Since nobody could form such a group until the end of the party, some people dem
 For each test case, the number of guests, n, is given in the first line, and each guest's number is given in the next n lines. To distinguish between men and women at the party, men's numbers were recorded as negative numbers, whereas women's numbers were recorded as positive. The end of the test case is indicated by a line containing "0". A new test case may then follow.
 ## Output
 The output for each test case consists of a single line saying "Fair" if the game was fair and a winning group could indeed be found. Otherwise, the output must be "Rigged".
+
 *Example*
+
 __Example input:__
 
 8
@@ -46,6 +48,7 @@ __Example input:__
 2
 
 0
+
 __Example output:__
 
 Fair
